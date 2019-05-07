@@ -1,0 +1,6 @@
+Journal de bord de mon projet
+=============================
+
+mardi 7 mai 2019
+- apprentissage de git
+- étude BD
